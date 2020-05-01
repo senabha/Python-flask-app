@@ -1,2 +1,2 @@
 # python-flask-app
-This is our minor project website created by our team.
+This is minor project website created by our team.
